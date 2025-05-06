@@ -3,7 +3,7 @@
                                                                             --------------------
 ### Hi there 👋
 
-**ahmedshakib/ahmedshakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mrahmedsakib/mrahmedsakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,15 +28,15 @@ https://i.gifer.com/7v54.gif
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshakib&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshakib" /> </p>
-<!-- <p align="center"> <a href="https://github-trophies.vercel.app/?username=ahmedshakib"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshakib" alt="ahmedshakib" /></a> </p> -->
-<p align="center"> <a href="https://github-trophies.vercel.app/?username=ahmedshakib"><img src="https://github-profile-trophy.vercel.app/?username=ahmedshakib" alt="ahmedshakib" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmedsakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedsakib" /> </p>
+<!-- <p align="center"> <a href="https://github-trophies.vercel.app/?username=mrahmedsakib"><img src="https://github-profile-trophy.vercel.app/?username=mrahmedsakib" alt="mrahmedsakib" /></a> </p> -->
+<p align="center"> <a href="https://github-trophies.vercel.app/?username=mrahmedsakib"><img src="https://github-profile-trophy.vercel.app/?username=mrahmedsakib" alt="mrahmedsakib" /></a> </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmedshakib/" target="blank">
+  <a href="https://www.linkedin.com/in/mrahmedsakib/" target="blank">
     <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
   </a>
-  <a href="https://github.com/ahmedshakib" target="blank">
+  <a href="https://github.com/mrahmedsakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40github-%23D3D3D3?style=for-the-badge&logo=github&logoColor=%23D3D3D3" alt="github"/>
   </a>
   <a href="" target="blank">
@@ -62,15 +62,15 @@ https://i.gifer.com/7v54.gif
 
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://minland.gov.bd/)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ahmedshakib/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedsakib/)
 
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/ahmedshakib/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mrahmedsakib/)
 
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
 
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://sites.google.com/view/ahmedshakib/)
+- 📄 Know about my experiences [Portfolio](https://sites.google.com/view/mrahmedsakib/)
 
 - ⚡ Fun fact **I like to play chess**
 
@@ -161,7 +161,7 @@ https://i.gifer.com/7v54.gif
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img href="https://www.linkedin.com/in/ahmedshakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
+  <img href="https://www.linkedin.com/in/mrahmedsakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
@@ -174,7 +174,7 @@ https://i.gifer.com/7v54.gif
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedshakib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ahmedshakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedshakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mrahmedsakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmedsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
