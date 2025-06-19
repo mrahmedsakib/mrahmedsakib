@@ -24,6 +24,8 @@ https://i.gifer.com/7v54.gif
 2. ![MasterHead](https://d.newsweek.com/en/full/352883/output-lsl2i4.gif?w=1200&f=7560e190845511a06b1ccf9b6ca2b158)
 3. https://www.thesslstore.nl/content/images/cw-img-ddos-attach.gif
 -->
+
+
 ![MasterHead](https://www.thesslstore.nl/content/images/cw-img-ddos-attach.gif)
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
@@ -49,39 +51,24 @@ https://i.gifer.com/7v54.gif
     <img src="https://img.shields.io/badge/follow-%40twitter-%2368BBE3?style=for-the-badge&logo=twitter&logoColor=blue" alt="twitter"/>
   </a>
 </p>
+
+
 <!-- <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif"> -->
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
-
 - 🌱 I’m currently learning **CyberSecurity and Laravel**
-
 <!-- <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"> -->
-
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://minland.gov.bd/)
-
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://minland.gov.bd/)
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedsakib/)
-
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mrahmedsakib/)
-
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
-
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
-
 - 📄 Know about my experiences [Portfolio](https://sites.google.com/view/mrahmedsakib/)
-
 - ⚡ Fun fact **I like to play chess**
-
-
-<h3 align="left">
-  <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="40px" style="vertical-align: middle; margin-right: 10px;">
-  Languages and Tools:
-</h3>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -169,6 +156,7 @@ https://i.gifer.com/7v54.gif
 </div>
 
 <h3 align="left">Connect with me:</h3>
+
 <div align="left">
   <img href="https://www.linkedin.com/in/mrahmedsakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
