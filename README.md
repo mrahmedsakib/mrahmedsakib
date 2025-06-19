@@ -50,8 +50,8 @@ https://i.gifer.com/7v54.gif
   </a>
 </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif"> -->
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+AtCoder;Always+learning+new+things" alt="Typing SVG" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
