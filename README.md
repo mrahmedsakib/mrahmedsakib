@@ -50,7 +50,8 @@ https://i.gifer.com/7v54.gif
   </a>
 </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://www.newus.in/image/full-stack-program-image.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"
 
 - 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 
