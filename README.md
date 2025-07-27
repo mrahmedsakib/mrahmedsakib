@@ -58,40 +58,16 @@ https://i.gifer.com/7v54.gif
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
-## 🔭 Currently Working On
-- [Land Tax Development (ভূমি উন্নয়ন কর)](https://land.gov.bd/)
-- [Land Service Gateway (LSG) Platform (Admin Portal)](https://admin.ldtax.gov.bd/login)
-
-## 👯 Successfully Collaborated On
-- [Land Tax Development (LDTAX) Admin Portal & Workflow System](https://admin.ldtax.gov.bd/login)
-- [Land Tax Development (LDTAX) Public Portal](https://ldtax.gov.bd/)
-
-## 🌱 Currently Learning
-- CyberSecurity
-- Advanced React.js
-
-## 💡 Expertise In
-- PHP & Laravel (Backend Development, REST APIs, Admin Panels)
-- CakePHP & MySQL
-- Frontend Integration (React.js, TailwindCSS)
-
-## 🚀 Personal Projects
-- **Complete E-commerce Project** — [View Project](https://flowerluxe.in/)
-- **Admin Panel & Backend Architecture** using Laravel — [Demo](https://flowerluxe.in/admin) *(If available)*
-
-## 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrahmedsakib/)
-
-## 💬 Ask Me About
-CakePHP | ReactJS | PHP | Laravel | CyberSecurity
-
-## 📫 Reach Me At
-sakibimtiaz07@gmail.com
-
-## 📄 Portfolio
-[View My Portfolio](https://sites.google.com/view/mrahmedsakib/)
-
-## ⚡ Fun Fact
-I enjoy playing chess in my free time ♟️
+-🔭 Currently Working On [Land Tax Development (ভূমি উন্নয়ন কর)](https://land.gov.bd/) [Land Service Gateway (LSG) Platform (Admin Portal)](https://admin.ldtax.gov.bd/login)
+- 👯 Successfully Collaborated On [Land Tax Development (LDTAX) Admin Portal & Workflow System](https://admin.ldtax.gov.bd/login),[Land Tax Development (LDTAX) Public Portal](https://ldtax.gov.bd/)
+- 🌱 Currently Learning **CyberSecurity, Advanced React.js**
+- 💡 Expertise In **PHP & Laravel (Backend Development, REST APIs, Admin Panels), MySQL, Frontend Integration (React.js, TailwindCSS)**
+- 🚀 Personal Projects **Complete E-commerce Project** — [View Project](https://flowerluxe.in/), **Admin Panel & Backend Architecture** using Laravel.
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mrahmedsakib/)
+- 💬 Ask Me About **CakePHP | ReactJS | PHP | Laravel | CyberSecurity**
+- 📫 Reach Me At sakibimtiaz07@gmail.com
+- 📄 Portfolio [View My Portfolio](https://sites.google.com/view/mrahmedsakib/)
+- ⚡ Fun Fact **I enjoy playing chess in my free time ♟️**
 
 <h3 align="left">Languages and Tools:</h3>
 
