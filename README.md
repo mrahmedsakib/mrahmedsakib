@@ -63,7 +63,7 @@ https://i.gifer.com/7v54.gif
 - 💡 Expertise In **PHP & Laravel (Backend Development, REST APIs, Admin Panels)**
 <!-- <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"> -->
 - 👯 Collaborate on [Land Tax Development (LDTAX) Admin Portal & Workflow System](https://admin.ldtax.gov.bd/login)
-- 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://minland.gov.bd/)
+- 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://portal.ldtax.gov.bd/)
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://ldtax.gov.bd/ )
 - 👯 Successfully Developed **Complete E-commerce Project** — [View Project](https://flowerluxe.in/), **Built Full Admin Panel & Backend Architecture using Laravel.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedsakib/)
