@@ -45,6 +45,12 @@ https://i.gifer.com/7v54.gif
 </p>
 -->
 
+<p align="center"> 
+  <a href="https://github-profile-trophy.vercel.app/?username=mrahmedsakib&theme=nord">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrahmedsakib&theme=nord" alt="mrahmedsakib"/>
+  </a> 
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mrahmedsakib/" target="blank">
     <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
