@@ -57,10 +57,10 @@ https://i.gifer.com/7v54.gif
   <a href="https://github.com/mrahmedsakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40github-%23D3D3D3?style=for-the-badge&logo=github&logoColor=%23D3D3D3" alt="github"/>
   </a>
-  <a href="" target="blank">
+  <a href="https://www.facebook.com/mrahmedsakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40facebook-%23055C9D?style=for-the-badge&logo=facebook&logoColor=blue" alt="facebook"/>
   </a> 
-  <a href="" target="blank">
+  <a href="https://www.instagram.com/mrahmedsakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40instagram-%23FF7F7F?style=for-the-badge&logo=instagram&logoColor=%23FF7F7F" alt="instagram logo"/>
   </a>
   <a href="https://twitter.com/ahmedsakib61" target="blank">
@@ -178,13 +178,13 @@ https://i.gifer.com/7v54.gif
 
 <div align="left">
   <img href="https://www.linkedin.com/in/mrahmedsakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
-  <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
-  <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo"  />
+  <img href="https://www.instagram.com/mrahmedsakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
+  <img href="https://www.facebook.com/mrahmedsakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="46" height="35" alt="telegram logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="46" height="35" alt="twitter logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="46" height="35" alt="whatsapp logo"  />
-  <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="35" alt="discord logo"  />
+  <img href="https://web.whatsapp.com/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="46" height="35" alt="discord logo"  />
 </div>
 
 <br>
