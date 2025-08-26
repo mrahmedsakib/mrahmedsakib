@@ -45,8 +45,8 @@ https://i.gifer.com/7v54.gif
 </p>
 -->
 <p align="center"> 
-  <a href="https://github-trophies.vercel.app/?username=mrahmedsakib&theme=nord">
-    <img src="https://github-trophies.vercel.app/?username=mrahmedsakib&theme=nord" alt="mrahmedsakib" />
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="mrahmedsakib" />
   </a>
 </p>
 
