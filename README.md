@@ -34,7 +34,7 @@ https://i.gifer.com/7v54.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmedsakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedsakib" /> </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=mrahmedsakib" alt="mrahmedsakib" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrahmedsakib" alt="skb" />
 </p>
 
 <p align="left">
