@@ -74,13 +74,13 @@ https://i.gifer.com/7v54.gif
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 
-- 🔭 I’m currently working on [Land Tax Development](https://land.gov.bd/)
+- 🔭 I’m currently working on [Land Tax Development](https://ldtax.gov.bd/)
 - 🌱 I’m currently learning **CyberSecurity and React.js**
 - 💡 Expertise In **PHP & Laravel (Backend Development, REST APIs, Admin Panels)**
 <!-- <img align="right" alt="Coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/bb375cdd655184ca2715ac5059e73651-YX4ZEeZEvbhrMMZa.gif"> -->
 - 👯 Collaborate on [Land Tax Development (LDTAX) Admin Portal & Workflow System](https://admin.ldtax.gov.bd/login)
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://portal.ldtax.gov.bd/)
-- 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://ldtax.gov.bd/ )
+- 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://lsg-portal-admin-stage.land.gov.bd/login)
 - 👯 Successfully Developed **Complete E-commerce Project** — [View Project](https://flowerluxe.in/), **Built Full Admin Panel & Backend Architecture using Laravel.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedsakib/)
 - 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mrahmedsakib/)
@@ -189,31 +189,10 @@ https://i.gifer.com/7v54.gif
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mrahmedsakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahmedsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=mrahmedsakib&theme=dracula"
-    height="150"
-    alt="GitHub Streak"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmedsakib&layout=compact&langs_count=5&theme=dracula"
-    height="150"
-    alt="Top Languages"
-  />
-
 </div>
 
 
