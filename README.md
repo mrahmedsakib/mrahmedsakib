@@ -196,11 +196,24 @@ https://i.gifer.com/7v54.gif
 </div> -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&show_icons=true&theme=dracula" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    height="150"
+    alt="GitHub Stats"
+  />
 
-<img src="https://streak-stats.demolab.com?user=mrahmedsakib&theme=dracula" height="150"/>
+  <img
+    src="https://streak-stats.demolab.com?user=mrahmedsakib&theme=dracula"
+    height="150"
+    alt="GitHub Streak"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmedsakib&layout=compact&theme=dracula" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmedsakib&layout=compact&langs_count=5&theme=dracula"
+    height="150"
+    alt="Top Languages"
+  />
 
 </div>
+
 
