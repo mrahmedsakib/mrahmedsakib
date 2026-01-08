@@ -189,26 +189,4 @@ https://i.gifer.com/7v54.gif
 
 <br>
 
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"
-    height="150"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=mrahmedsakib&theme=dracula"
-    height="150"
-    alt="GitHub Streak"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrahmedsakib&layout=compact&langs_count=5&theme=dracula"
-    height="150"
-    alt="Top Languages"
-  />
-
-</div>
-
 
