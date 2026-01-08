@@ -192,7 +192,7 @@ https://i.gifer.com/7v54.gif
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"
     height="150"
     alt="GitHub Stats"
   />
