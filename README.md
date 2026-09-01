@@ -30,7 +30,7 @@ https://i.gifer.com/7v54.gif
 <h1 align="center">Hi 👋, This is Imtiaz Ahmed</h1>
 <h3 align="center">A Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazahmedsakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedshakib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrahmedshakib&label=Profile%20views&color=0e75b6&style=flat" alt="mrahmedshakib" /> </p>
 
 <!--
 <p align="center"> 
