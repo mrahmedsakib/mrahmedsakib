@@ -45,16 +45,16 @@ https://i.gifer.com/7v54.gif
 </p>
 -->
 <p align="center"> 
-  <a href="https://github-trophy.vercel.app/?username=imtiazahmedsakib&theme=onedark"> 
-    <img src="https://github-trophy.vercel.app/?username=imtiazahmedsakib&theme=onedark" alt="GitHub Trophy" />
+  <a href="https://github-trophy.vercel.app/?username=mrahmedshakib&theme=onedark"> 
+    <img src="https://github-trophy.vercel.app/?username=mrahmedshakib&theme=onedark" alt="GitHub Trophy" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/imtiazahmedsakib/" target="blank">
+  <a href="https://www.linkedin.com/in/mrahmedshakib/" target="blank">
     <img src="https://img.shields.io/badge/follow-%40linkedin-%23055C9D?style=for-the-badge&logo=linkedin&logoColor=blue" alt="linkedin logo"/>
   </a>
-  <a href="https://github.com/imtiazahmedsakib" target="blank">
+  <a href="https://github.com/mrahmedshakib" target="blank">
     <img src="https://img.shields.io/badge/follow-%40github-%23D3D3D3?style=for-the-badge&logo=github&logoColor=%23D3D3D3" alt="github"/>
   </a>
   <a href="https://www.facebook.com/mrahmedshakib" target="blank">
@@ -82,11 +82,11 @@ https://i.gifer.com/7v54.gif
 - 👯 I’m looking to collaborate on [Land Service Gateway (LSG)](https://portal.ldtax.gov.bd/)
 - 🤝 I’m looking for help with [Land Service Gateway (LSG) Admin](https://lsg-portal-admin-stage.land.gov.bd/login)
 - 👯 Successfully Developed **Complete E-commerce Project** — [View Project](https://flowerluxe.in/), **Built Full Admin Panel & Backend Architecture using Laravel.**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/imtiazahmedsakib/)
-- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/imtiazahmedsakib/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mrahmedshakib/)
+- 📝 I regularly write articles on [linkedin](https://www.linkedin.com/in/mrahmedshakib/)
 - 💬 Ask me about **CakePHP, ReactJs, PHP, Laravel and CyberSecurity**
 - 📫 How to reach me **sakibimtiaz07@gmail.com**
-- 📄 Know more about my experiences: [Portfolio](https://sites.google.com/view/imtiazahmedsakib/)
+- 📄 Know more about my experiences: [Portfolio](https://sites.google.com/view/mrahmedshakib/)
 - ⚡ Fun fact **I enjoy playing chess in my free time ♟️**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -177,7 +177,7 @@ https://i.gifer.com/7v54.gif
 <h3 align="left">Connect with me:</h3>
 
 <div align="left">
-  <img href="https://www.linkedin.com/in/imtiazahmedsakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
+  <img href="https://www.linkedin.com/in/mrahmedshakib/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="46" height="35" alt="linkedin logo"  />
   <img href="https://www.instagram.com/mrahmedshakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="35" alt="instagram logo"  />
   <img href="https://www.facebook.com/mrahmedshakib" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="46" height="35" alt="facebook logo"  />
   <img href="" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="46" height="35" alt="gmail logo"  />
@@ -190,7 +190,7 @@ https://i.gifer.com/7v54.gif
 <br>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mrahmedsakib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
-  <img src="https://streak-stats.demolab.com?user=mrahmedsakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langsusername=mrahmedsakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrahmedshakib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <img src="https://streak-stats.demolab.com?user=mrahmedshakib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langsusername=mrahmedshakib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> </div>
 
